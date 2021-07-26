@@ -10,6 +10,7 @@
 * [normalize.css](https://necolas.github.io/normalize.css/) — нормализация стилей (убираем различия отображения в разных браузерах)
 * [W3C Markup Validation Service](https://validator.w3.org/) — сервис валидации HTML
 * [W3C CSS Validation Service](https://jigsaw.w3.org/css-validator/) — сервис валидации CSS
+* [БЭМ: быстрый старт](https://ru.bem.info/methodology/quick-start/) — компонентный подход к веб-разработке
 
 ### JavaScript
 * [learn.javascript.ru](https://learn.javascript.ru/) — современный учебник JavaScript
