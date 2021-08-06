@@ -5,6 +5,7 @@
 * [MDN Web Docs](https://developer.mozilla.org/ru/) — большой сборник документации и образовательный ресурс для веб-разработчиков
 * [Дока](https://y-doka.site/) — статьи и лонгриды по веб-разработке
 * [Can I use](https://caniuse.com/) — проверка поддержки HTML/CSS-технологий в различных браузерах
+* [Шпаргалка по Flexbox](https://habr.com/ru/post/313938/) - визуальная шпаргалка по CSS3 Flexbox
 * [Flexbox Froggy](http://flexboxfroggy.com/#ru) — игра для изучения CSS Flexbox
 * [Grid Garden](http://cssgridgarden.com/#ru) — игра для изучения CSS Grid
 * [common-words](https://github.com/yoksel/common-words) — слова, часто используемые в CSS-классах
