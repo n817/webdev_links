@@ -33,3 +33,6 @@
 ### Web Hosting
 * [beget](https://beget.com/ru/free-hosting) — бесплатный хостинг
 
+### Useful
+* [Noisli](https://www.noisli.com/) — генератор фоновых шумов для концентрации + pomodoro-таймер
+
