@@ -13,6 +13,7 @@
 * [W3C Markup Validation Service](https://validator.w3.org/) — сервис валидации HTML
 * [W3C CSS Validation Service](https://jigsaw.w3.org/css-validator/) — сервис валидации CSS
 * [БЭМ: быстрый старт](https://ru.bem.info/methodology/quick-start/) — компонентный подход к веб-разработке
+* [Мнемоники в HTML](https://ru.wikipedia.org/wiki/%D0%9C%D0%BD%D0%B5%D0%BC%D0%BE%D0%BD%D0%B8%D0%BA%D0%B8_%D0%B2_HTML) — коды и мнемоники различных символов в HTML
 
 ### JavaScript
 * [learn.javascript.ru](https://learn.javascript.ru/) — современный учебник JavaScript
