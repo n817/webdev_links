@@ -1,9 +1,11 @@
 ## Полезные ссылки для веб-разработчика
 
-### HTML/CSS
-* [WebReference](https://webref.ru/) — справочник по веб-технологиям
+### Общие справочники
+* [Дока](https://doka.guide/) — статьи и лонгриды по веб-разработке
 * [MDN Web Docs](https://developer.mozilla.org/ru/) — большой сборник документации и образовательный ресурс для веб-разработчиков
-* [Дока](https://y-doka.site/) — статьи и лонгриды по веб-разработке
+
+### HTML/CSS
+* [WebReference](https://webref.ru/) — справочник по HTML/CSS
 * [Can I use](https://caniuse.com/) — проверка поддержки HTML/CSS-технологий в различных браузерах
 * [Шпаргалка по Flexbox](https://habr.com/ru/post/313938/) - визуальная шпаргалка по CSS3 Flexbox
 * [Flexbox Froggy](http://flexboxfroggy.com/#ru) — игра для изучения CSS Flexbox
